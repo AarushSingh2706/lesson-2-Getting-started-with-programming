@@ -1,0 +1,5 @@
+print("Welcome to my programme")
+print(34)
+print("Hello there",45)
+print("Hi \n")
+print("bye ",end="See you next time")
